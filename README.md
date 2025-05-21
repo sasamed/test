@@ -1,4 +1,4 @@
 # test
 
 
-esto es una prueba PR con Github
+esto es una prueba PR con Git
